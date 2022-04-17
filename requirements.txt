@@ -1,0 +1,9 @@
+selectolax
+aiohttp
+gensim
+nltk
+pandas
+Color_Console
+fake-useragent
+colorama
+termcolor
