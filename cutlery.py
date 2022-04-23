@@ -166,7 +166,6 @@ def shake_tree(tree):
 
 
 def forest(trees):
-
     # Process Each Batch of HTML
     for tree in trees:
         (
